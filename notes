@@ -1,0 +1,142 @@
+Ivan Jhon M. Olalo
+
+School: Bestlink College of the Philippines 
+City: Caloocan
+Email: ivanolalo37@gmail.com 
+Phone number: 09694470321
+
+Education
+Elementary - kalayaan elementary school 
+Highschool - kalayaan national highschool 
+Senior Highschool - St.Clare College 
+College - Bestlink College of the Philippines 
+
+Skills
+Html
+Css
+JavaScript
+
+
+
+
+Joshua H. Perocho 
+
+school: bestlink college of the Philippines 
+city: Valenzuela 
+email: uchihajoshuaperocho@gmail.com 
+phone number 09513328986
+
+
+Education 
+Elementary - Silvestre lazaro elementary school 
+Highschool - St. Bernadette college of Valenzuela 
+Senior Highschool - St. Bernadette college of Valenzuela 
+college - bestlink college of the Philippines 
+
+skills
+HTML/CSS
+
+
+
+
+Cinco, Mc Kevin V.
+
+school: bestlink college of the Philippines 
+city: Loma de gato marilao bulacan
+
+email cincomckevinvilando@gmail.com 
+
+Contact:
+09278046374
+
+
+Education 
+Elementary - Lucas r pascual memorial elementary school
+
+Highschool - San Francisco high school Bago bantay 
+
+Senior Highschool - Grd 11 San Fransisco High school/Grd 12 TIP 
+
+college - bestlink college of the Philippines 
+
+skills
+HTML/CSS
+Cooking
+Driving 4wheels
+Photography
+
+
+
+
+        <div class="section-block">
+          <h3 class="section">Soft Skills</h3>
+          <div class="skills">
+            <span class="skill-pill">Hardworking</span>
+            <span class="skill-pill">Compassionate</span>
+            <span class="skill-pill">Reliable</span>
+            <span class="skill-pill">Communicative</span>
+            <span class="skill-pill">Multitasking</span>
+          </div>
+        </div>
+      </section>
+
+
+
+
+      
+        <div class="achievements section-block">
+          <h3 class="section">Major Achievements</h3>
+          <p>
+            I won the State Math Competition (2017). I also received a municipal scholarship for academic excellence.
+            Additionally, I completed a science and technology program for high school students (2018).
+          </p>
+        </div>
+
+
+
+
+
+
+                <div class="meta">
+          <strong>Languages</strong>
+          <div>English (native), Spanish (conversational)</div>
+        </div>
+      </aside>
+    </main>
+  </article>
+</body>
+</html>
+
+
+
+
+    .skills{
+      display:flex;
+      flex-wrap:wrap;
+      gap:8px;
+      color:var(--muted);
+      font-size:14px;
+    }
+
+    .skill-pill{
+      background:transparent;
+      padding:6px 10px;
+      border-radius:999px;
+      border:1px solid var(--line);
+      font-size:13px;
+    }
+
+
+
+
+
+    
+<img src="profile.jpg" alt="Profile Photo" class="profile-img">
+
+.profile-img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid white;
+}
